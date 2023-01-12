@@ -1,0 +1,6 @@
+.detail-imglist{
+    flex: 1;
+    overflow: hidden;
+    height: 200px;
+    width: auto;
+}
